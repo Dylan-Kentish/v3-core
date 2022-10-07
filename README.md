@@ -1,5 +1,10 @@
 # Uniswap V3
 
+## Fork Changes
+I forked this repo as part of my investigation and development of a MEV Bot. The purpose being the development of a uniswap v3 simulator. Whilst developing this, I found my self refering to the uniswap v3-core tests a lot! So, to help this process, I added the ability to debug any test file independently in VS Code.
+
+---
+
 [![Lint](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml)
 [![Tests](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/tests.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/tests.yml)
 [![Fuzz Testing](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/fuzz-testing.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/fuzz-testing.yml)
